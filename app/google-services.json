@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "898889842264",
+    "firebase_url": "https://webview-jetpack-compose-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "webview-jetpack-compose",
+    "storage_bucket": "webview-jetpack-compose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898889842264:android:a3c5fe4a14a0f563f2142d",
+        "android_client_info": {
+          "package_name": "com.example.jet2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898889842264-rof5ovs0f8k3v1g8nem640ctqdii5rvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKXtAZDQhG0YhnFvQtSqICm1WDijolGHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898889842264-rof5ovs0f8k3v1g8nem640ctqdii5rvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
